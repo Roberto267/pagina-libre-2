@@ -1,0 +1,45 @@
+body
+{
+	background: url('images/fondof.jpg');
+	color: white;
+	font-family: Times New Roman, sans-serif;
+	font-size: 2.5ex;
+}
+
+#estructura
+{
+	width: 1000px;
+	margin: auto;
+}
+
+h1
+{
+	font-family: Baskerville Old Face;
+}
+h2
+{
+	font-family: Baskerville Old Face;
+}
+
+.imagenes
+{
+	margin: 8px;
+	vertical-align: middle;
+}
+#wsl, header h1
+{
+    display: inline-block;
+    margin-bottom: 0px;
+}
+
+#tabla
+{
+	color: black;
+	background-color: #58FAF4;
+	width: 900px;
+	text-align: center;
+	opacity: 0.8;
+	font-family: Californian FB;
+	font-size: 2.6ex;
+	vertical-align: middle;
+}
